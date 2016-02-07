@@ -28,3 +28,9 @@ npm start
 ```
 
 Now just go to the root of port 8080 on your machine ([http://localhost:8080](http://localhost:8080/))
+
+## Controls
+
+Drag the cards around the screen. To flip a card, start dragging it and press the `f` key.
+
+Works on mobile, but there is currently no way to flip a card unless you have a keyboard (untested).
