@@ -1,0 +1,23 @@
+{
+  "name": "card-pack-phaser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/http-server/bin/http-server www/",
+    "postinstall": "bower install"
+  },
+  "author": "Guy Bianco IV <gjbiancoiv@gmail.com> (http://gjbianco.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "http-server": "^0.8.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bower": "^0.21.0",
+    "grunt-contrib-clean": "^0.7.0",
+    "load-grunt-tasks": "^3.4.0"
+  }
+}

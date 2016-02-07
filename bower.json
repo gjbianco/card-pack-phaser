@@ -1,0 +1,22 @@
+{
+  "name": "card-pack-phaser",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Guy Bianco IV <gjbiancoiv@gmail.com> (http://gjbianco.github.io)"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.4.4"
+  }
+}
